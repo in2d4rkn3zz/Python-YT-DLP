@@ -116,7 +116,7 @@ A simple Python script with a graphical user interface (GUI) that allows you to 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/youtube-downloader.git
+    git clone https://github.com/in2d4rkn3zz/Python-YT-DLP/main/ytdownload.py.git
     cd youtube-downloader
     ```
 
